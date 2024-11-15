@@ -14,9 +14,9 @@
 
 <!--*Stats:*
 
-![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=DyahDemetra&langs_count=10&title_color=fff&text_color=00e7ff&bg_color=151515&layout=compact&hide=cmake)
+![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=DyahDemetra&langs_count=10&title_color=fff&text_color=00e7ff&bg_color=151515&layout=compact&hide=cmake) -->
 
-*Contacts:*-->
+*Contacts:*
 
 [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/DyahCodr)
 [![Mail](https://img.shields.io/badge/mail-black?style=for-the-badge&logo=gmail)](mailto:stanislavchik02@gmail.com)
